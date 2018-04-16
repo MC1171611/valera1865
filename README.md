@@ -1,5 +1,5 @@
 # valera1865
-2018 edición de la Biblia Reina-Valera 1865, para ser divulgada por cualquier método digital con arreglos ortográficos.
+Edición 2018 de la Reina-Valera Bible 1865 con arreglos ortográficos, para ser distribuidos por cualquier método digital.
 
 Las reglas ortográficas han cambiado desde la edición original, principalmente las reglas que afectan la acentuación de las palabras. La actualización consistió en borrar los acentos en palabras que dejaron de acentuarse ortográficamente. El resultado es un texto igual al original pero válido de acuerdo con la normativa vigente.
 
