@@ -14,3 +14,6 @@ El texto digital fue preparado por y con [Ministerios Valera 1865](http://www.va
 El texto original de 1865 es de dominio público.
 
 El texto digital 2018 con ortografía actualizada se publica bajo la licencia [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## Estado
+Otros cambios menores aún están pendientes.
