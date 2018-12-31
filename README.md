@@ -16,4 +16,7 @@ El texto original de 1865 es de dominio público.
 El texto digital 2018 con ortografía actualizada se publica bajo la licencia [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Estado
-Otros cambios menores aún están pendientes.
+
+Los archivos USFM coinciden con la primera edición impresa que se está preparando actualmente, excepto por las diferencias en la versificación.
+
+Otros cambios menores están a la espera de la próxima revisión de la edición impresa.
